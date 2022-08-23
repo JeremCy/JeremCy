@@ -21,8 +21,8 @@
 
 <table cellpadding="0">
   <tr style="padding: 0">
-      <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=JeremCy&show_icons=true&theme=tokyonight"/></td>
-<td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremCy&layout=compact&show_icons=true&theme=tokyonight"/></td>
+      <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=JeremCy&show_icons=true&theme=tokyonight"/></td>
+<td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremCy&layout=compact&show_icons=true&theme=tokyonight"/></td>
   </tr>
 </table>
 
