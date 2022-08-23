@@ -19,7 +19,7 @@
 <a href="https://discord.gg/7291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7291" height="30" width="40" /></a>
 </p>
 
-<div display="flex">
+<div style={display: flex}>
 
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeremCy&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
