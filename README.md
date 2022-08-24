@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jeremie Cyrille</h1>
 <h3 align="center">I'm web developer student !</h3>
 
-- 🌱 I’m currently learning **symfony**, **vue**,**React** and **SAP** 
+- 🌱 I’m currently learning **symfony**, **vue**, **React** and **SAP** 
 
 - 👨‍💻 All of my projects are available [here](https://www.jeremie-cyrille.com/project)
 
