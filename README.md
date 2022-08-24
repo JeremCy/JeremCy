@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jeremie Cyrille</h1>
 <h3 align="center">I'm web developer student !</h3>
 
-- 🌱 I’m currently learning **symfony**
+- 🌱 I’m currently learning **symfony**, **vue**,**React** and **SAP** 
 
-- 👨‍💻 All of my projects are available at [jeremie-cyrille.com/project](jeremie-cyrille.com/project)
+- 👨‍💻 All of my projects are available [here](https://www.jeremie-cyrille.com/project)
 
-- 💬 Ask me about **vue,symfony,django**
+- 💬 Ask me about **vue,symfony**
 
 - 📫 How to reach me **jeremie.cyrille@icloud.com**
 
