@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jeremie Cyrille</h1>
-<h3 align="center">I'm web developer student !</h3>
+<h3 align="center">I'm Buisiness Inteligence Consultant !</h3>
 
 - 🌱 I’m currently learning **symfony**, **vue**, **React** and **SAP** 
 
 - 👨‍💻 All of my projects are available [here](https://www.jeremie-cyrille.com/project)
 
-- 💬 Ask me about **vue,symfony**
+- 💬 Ask me about **vue,symfony,next,nestjs**
 
 - 📫 How to reach me **jeremie.cyrille@icloud.com**
 
-- 📄 Know about my experiences [https://www.jeremie-cyrille.com/carrer/](https://www.jeremie-cyrille.com/carrer/)
+- 📄 Know about my experiences [https://www.jeremie-cyrille.com/](https://www.jeremie-cyrille.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
